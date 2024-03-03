@@ -13,7 +13,7 @@
 
 💻 Languages
 <br><br>
-<img src="https://img.shields.io/badge/java-ff7f00?style=flat&logo=coffeescript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-ff7f00?style=flat&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
