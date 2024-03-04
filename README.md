@@ -26,8 +26,10 @@
 <img src="https://img.shields.io/badge/PyCharm-3CB371?style=flat&logo=pycharm&logoColor=black">
 <img src="https://img.shields.io/badge/CLion-4B89DC?style=flat&logo=clion&logoColor=black">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<br>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakdevelop&layout=compact)
