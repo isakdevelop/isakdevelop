@@ -25,7 +25,7 @@
 <img src="https://img.shields.io/badge/Intellij IDEA-F05650?style=flat&logo=intellijidea&logoColor=black">
 <img src="https://img.shields.io/badge/PyCharm-3CB371?style=flat&logo=pycharm&logoColor=black">
 <img src="https://img.shields.io/badge/CLion-4B89DC?style=flat&logo=clion&logoColor=black">
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white">
+<img src="https://img.shields.io/badge/DataGrip-a374db?style=flat&logo=datagrip&logoColor=black">
 <br>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
