@@ -13,23 +13,18 @@
 
 💻 Languages
 <br><br>
-<img src="https://img.shields.io/badge/Java-ff7f00?style=flat&logo=coffeescript&logoColor=white">
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white">
 
 
 🛠 Tools
 <br><br>
 <img src="https://img.shields.io/badge/Intellij IDEA-F05650?style=flat&logo=intellijidea&logoColor=black">
-<img src="https://img.shields.io/badge/PyCharm-3CB371?style=flat&logo=pycharm&logoColor=black">
-<img src="https://img.shields.io/badge/CLion-4B89DC?style=flat&logo=clion&logoColor=black">
+<img src="https://img.shields.io/badge/PostMan-FF6C37?style=flat&logo=postman&logoColor=black">
 <img src="https://img.shields.io/badge/DataGrip-a374db?style=flat&logo=datagrip&logoColor=black">
 <br>
-<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white">
 
 <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=isakdevelop&layout=compact)
