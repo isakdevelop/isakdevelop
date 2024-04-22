@@ -11,7 +11,7 @@
 <a href="https://github.com/isakdevelop/" target= "_blank"><img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"></a>
 <img src="https://img.shields.io/badge/daishi7462@naver.com-03C75A?style=flat&logo=naver&logoColor=white">
 
-💻 Languages
+💻 Stack
 <br><br>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white">
